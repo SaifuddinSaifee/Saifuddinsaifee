@@ -28,10 +28,10 @@ Saifuddin leverages Python and 3D design expertise to create impactful and produ
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on PowerApps  
+- 🔭 I’m currently working Langchain  
   
 
-- 🌱 Java and Kubernetes  
+- 🌱 Full stack with Vue and Flask
   
 
 - Feel Free to reach out to me!  
