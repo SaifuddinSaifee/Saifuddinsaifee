@@ -18,10 +18,7 @@
 
 
 ### Glad to see you here!  
-Experience in writing quality code. Looking for opportunities to expand my experience in project planning, scoping, prioritization to 
-create robust, application which are simple flexible and comprehensive. Good at researching and collecting data, merging my 
-knowledge and experience from various domains such as web development, software development of Information Technology to 
-achieve something impactful. Proficiency in Python, Java, C++.
+Saifuddin leverages Python and 3D design expertise to create impactful and productivity applications powered by Machine Learning and GenAI. He experiments with different machine learning classification and regression algorithms using TensorFlow and  PyTorch to make projects that provide insightful information. Saifuddin has also contributed to Microsoft Learn Modules of C++, Java, Azure Web PubSub, and Azure functions.
   
   
 
